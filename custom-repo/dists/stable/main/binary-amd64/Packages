@@ -1,0 +1,16 @@
+Package: abperf
+Version: 1.0.8-2030
+Architecture: amd64
+Maintainer: nobody
+Installed-Size: 139.8115234375
+Depends: ethtool, openssl, iptables, pciutils
+Filename: pool/main/abperf_1.0.8-2030_amd64.deb
+Size: 54280
+MD5sum: d4ae2786014aba79044f0c6c112a87b2
+SHA1: 6e7aaae8c81701a3a6b16b6617699f7a9aebaf8c
+SHA256: 56ba01a661c3a4721588f23d950fe46d3769cf8af958538c4b2ced5dcbc66040
+Section: misc
+Priority: optional
+Homepage: nowhere
+Description: nothing
+
